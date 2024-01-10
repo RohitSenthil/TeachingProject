@@ -22,27 +22,39 @@ The backend uses
 
 ## Usage
 
-1. cd into the python-api folder
+1. Clone the repository
 
 ```sh
-   git clone https://github.com/your_username_/Project-Name.git 
+    git clone https://github.com/RohitSenthil/TeachingProject.git 
 ```
 
-2. Run the index.js file
+2. Install the required dependencies in both folders
 
 ```sh
-   node index.js 
+   #!/python-api
+   npm install
+   #!/react-teaching
+   npm install
 ```
 
-3. Create a .env file in the src folder in the react-teaching folder with the link to the python-api server
+3. Run the index.js file from the python-api folder
+
+```sh
+  #!/python-api
+  node index.js 
+```
+
+4. Create a .env file in the react-teaching folder with the link to the python-api server
 
 ```env
+   #react-teaching/.env
    VITE_PYTHON_API_URL=YOUR_API_URL 
 ```
 
-4. Build the website with vite in the react-teaching folder
+5. Build the website with vite in the react-teaching folder
 
 ```sh
+   #!/react-teaching
    npm run dev
 ```
 
