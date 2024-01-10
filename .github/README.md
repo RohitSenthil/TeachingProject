@@ -2,7 +2,7 @@
 
 ![Home Page](/.github/screenshots/home-screen.png)
 
-[playwithpython.org](playwithpython.org) is a website designed to teach python basics in a fun and interesting way. The website features interactive informational pages with engaging questions and animations and coding questions to test users mastery of the concepts. The frontend website is found in the [react-teaching](/react-teaching) folder and the backend api is found in the [python-api](/python-api) folder.
+[playwithpython.org](playwithpython.org) is a website designed to teach Python basics in a fun and interesting way. The website features interactive informational pages with engaging questions and animations and coding questions to test users mastery of the concepts. The frontend layer is found in the [react-teaching](/react-teaching) folder and the backend api is found in the [python-api](/python-api) folder.
 
 ## Technologies
 
@@ -46,7 +46,7 @@ The backend uses
    npm run dev
 ```
 
-## Screenshoots
+## Screenshots
 
 ![Instructional Page](/.github/screenshots/var-instruction.png)
 ![Editor Page](/.github/screenshots/editor.png)
