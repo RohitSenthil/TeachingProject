@@ -46,10 +46,10 @@ The backend uses
 
 ## Screenshoots
 
-![Home Page](/github/screenshots/home-screen.png)
-![Instructional Page](/github/screenshots/var-instruction.png)
-![Editor Page](/github/screenshots/editor.png)
-![Editor Results Page](/github/screenshots/editor-results.png)
+![Home Page](/.github/screenshots/home-screen.png)
+![Instructional Page](/.github/screenshots/var-instruction.png)
+![Editor Page](/.github/screenshots/editor.png)
+![Editor Results Page](/.github/screenshots/editor-results.png)
 
 ## License
 
